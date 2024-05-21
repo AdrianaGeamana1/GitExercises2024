@@ -5,3 +5,5 @@ adri
 some other code
 
 another statement for another tag
+
+a statement only for main
