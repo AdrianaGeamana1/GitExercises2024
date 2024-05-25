@@ -1,13 +1,1 @@
-some code
 
-adri 
-
-some other code
-
-<<<<<<< HEAD
-another statement for another tag
-
-a statement only for main
-=======
-another statement for another tag
->>>>>>> dc73ee57a56a88bc1a34d8f7636b7c68d06f6d2d
